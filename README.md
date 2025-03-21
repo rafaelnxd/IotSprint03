@@ -111,7 +111,7 @@ Comparando com a proposta original, algumas adaptações foram realizadas para o
 
 ### 7.1. Link do Vídeo de Demonstração
 
-[https://youtu.be/IVTnIkbyqs0](#)
+[https://youtu.be/wECOeFML8kM](#)
 
 ### 7.2. Funcionalidades Demonstradas no Vídeo
 

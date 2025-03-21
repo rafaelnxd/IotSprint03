@@ -72,6 +72,8 @@ Incorporação de elementos de gamificação para incentivar os usuários a mant
 - **LangChain**: Automação de processos e geração de relatórios periódicos.
 - **AutoEncoders**: Identificação de anomalias em imagens de forma temporal.
 
+### Diagrama da Solução:
+
   ![Diagrama sem nome drawio](https://github.com/user-attachments/assets/0ddbe31c-cade-4183-a03c-a516c72361d8)
 
 
